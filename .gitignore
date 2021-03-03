@@ -11,6 +11,9 @@
 .idea/
 *.iml
 
+# Maven
+target/
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
